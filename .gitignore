@@ -1,0 +1,10 @@
+# Binaries
+github-activity
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Folders
+vendor/
